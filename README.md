@@ -20,6 +20,3 @@ The purpose of this test was to evaluate problem-solving skills, Python logic bu
 - `eda_analysis.ipynb` – EDA implementation
 - `dataset.csv` – Dataset used for analysis
 - `python_tasks.py` – Python logic based tasks
-
-## Author
-Arjun Naluvala
